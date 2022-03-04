@@ -5,7 +5,7 @@ Please, before doing any of the Demos
 
 ## BRANCH FEATURES Demo/LAB
 
-1 - edit the [index.hml](https://github.com/diegopereiraeng/harness-ff-bankingapp-ui/blob/main/html/index.html) file and search for:
+1 - edit the [index.hml](https://github.com/damian-curiel/harness-ff-bankingapp-ui/blob/main/html/index.html) file and search for:
 ex:
 
 	a - <title>Harness Demo</title>
@@ -30,7 +30,7 @@ Thanks!
 
 #### Create the flags and add them to code:
 
-1 - edit the [ff.js](https://github.com/diegopereiraeng/harness-ff-bankingapp-ui/blob/main/html/js/ff.js) file and search for:
+1 - edit the [ff.js](https://github.com/damian-curiel/harness-ff-bankingapp-ui/blob/main/html/js/ff.js) file and search for:
 
   a(FF Key):
   
